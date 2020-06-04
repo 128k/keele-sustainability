@@ -27,7 +27,7 @@ Based on the requirements gathering, we established that the client wanted an ap
 
 ### Design
 
-The design was created by **James Mitchell** and will utilize a **widget based** approach. Colour choices are largely influenced by the [Keele Style Guide](https://www.keele.ac.uk/brand/).
+The design was created by **James Mitchell** (@128k) and will utilize a **widget based** approach. Colour choices are largely influenced by the [Keele Style Guide](https://www.keele.ac.uk/brand/).
 
 <p align="center">
      <img src="mockup/recycling-widget.jpg" width="250"/>
